@@ -1,33 +1,50 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: Jeremy Muller's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Jeremy Muller
+Business Analytics and Communications
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`Expected July 2022`
+__Brigham Youn University-Idaho__, Rexburg, ID
+*Bachelor's of Science in Business Analytics*
 
 - Full academic scholarship with 4.0 GPA
+- Minor in Communications, with extensive training in interpersonal communication and conflict resolution
+- Academic focus in statistical analysis and linear regression modeling, data wrangling and visualization, financial and managerial accountring, and oranizational theory and practice
+- Outreach Manager for the BYU-Idaho Supply Chain Management Society
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+## Work Experience
+`Rexburg, ID`
+`September 2020-Present`
+__Brigham Young University-Idaho__
+*Teacher's Assistant for Introductory Statistics*
 
-- 4.0 Major GPA
+- Oversaw grading and instruction for 50 students per class
+- Raised student grades by 30% with one-on-one tutoring
+- Invited 4 times to continue to assist in instructing based on exceptional results
 
+`Rexburg, ID`
+`February 2020-April 2020`
+__Melaleuca: The Wellness Company__
+*Customer Service Associate*
 
-## Related Experience
+- Achieved expert status on specifics of over 400 products
+- Received 2 Customer Recognition Awards for extraordinary service
+
+`Athens, Greece`
+`October 2017-September 2019`
+
 
 ### Internships
 
